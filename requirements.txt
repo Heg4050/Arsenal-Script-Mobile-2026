@@ -1,0 +1,6 @@
+pynput
+pillow
+psutil
+colorama
+requests
+win32api

